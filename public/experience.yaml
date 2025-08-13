@@ -1,0 +1,19 @@
+- company: Company Name 1
+  positions:
+    - title: Senior Software Engineer
+      startDate: 2022
+      endDate: null
+      description_en: "Leading development of scalable web applications using modern technologies. Mentoring junior developers and contributing to architectural decisions."
+      description_es: "Liderando el desarrollo de aplicaciones web escalables usando tecnologías modernas. Mentoreando desarrolladores junior y contribuyendo a decisiones arquitectónicas."
+    - title: Software Engineer
+      startDate: 2020
+      endDate: 2022
+      description_en: "Developed and maintained web applications using Angular, TypeScript, and Node.js. Collaborated with cross-functional teams to deliver high-quality solutions."
+      description_es: "Desarrollé y mantuve aplicaciones web usando Angular, TypeScript y Node.js. Colaboré con equipos multifuncionales para entregar soluciones de alta calidad."
+- company: Company Name 2
+  positions:
+    - title: Junior Developer
+      startDate: 2018
+      endDate: 2020
+      description_en: "Assisted in the development of internal tools and automation scripts. Participated in code reviews and team meetings."
+      description_es: "Asistí en el desarrollo de herramientas internas y scripts de automatización. Participé en revisiones de código y reuniones de equipo."
