@@ -13,7 +13,7 @@ export function Header() {
       <div className="container mx-auto px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
           <div className="flex items-center">
-            <h1 className="text-lg font-medium text-black dark:text-white">{t("name")}</h1>
+            <h1 className="text-lg font-medium text-black dark:text-white">gonate</h1>
           </div>
 
           <nav className="flex items-center space-x-2">

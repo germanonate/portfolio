@@ -12,7 +12,6 @@ interface LanguageContextType {
 
 const translations = {
   en: {
-    name: "Germán Oñate",
     greeting: "Hi, I'm Germán Oñate",
     role: "Information Systems Engineer",
     summary:
@@ -24,7 +23,6 @@ const translations = {
   allRightsReserved: "All rights reserved."
   },
   es: {
-    name: "Germán Oñate",
     greeting: "Hola, soy Germán Oñate",
     role: "Ingeniero en Sistemas de Información",
     summary:

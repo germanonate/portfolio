@@ -1,21 +1,35 @@
 "use client"
 
 
+
 import { useLanguage } from "@/contexts/language-context"
 import { Briefcase } from "lucide-react"
 import yaml from "js-yaml"
 import { useEffect, useState } from "react"
 
+interface ExperiencePosition {
+  title: string;
+  startDate: string;
+  endDate: string | null;
+  description_en: string;
+  description_es: string;
+}
+
+interface ExperienceCompany {
+  company: string;
+  positions: ExperiencePosition[];
+}
+
 export function Experience() {
   const { t, language } = useLanguage()
-  const [experiences, setExperiences] = useState<any[]>([])
+  const [experiences, setExperiences] = useState<ExperienceCompany[]>([])
 
   useEffect(() => {
     async function fetchExperience() {
       const res = await fetch("/experience.yaml")
       const text = await res.text()
       const data = yaml.load(text)
-      setExperiences(Array.isArray(data) ? data : [])
+  setExperiences(Array.isArray(data) ? (data as ExperienceCompany[]) : [])
     }
     fetchExperience()
   }, [])
@@ -34,7 +48,7 @@ export function Experience() {
               <h3 className="text-xl font-medium text-black dark:text-white mb-6">{experience.company}</h3>
 
               <div className="space-y-6">
-                {experience.positions.map((position: any, positionIndex: number) => (
+                {experience.positions.map((position, positionIndex) => (
                   <div key={positionIndex} className="relative">
                     <div className="absolute -left-8 w-3 h-3 bg-black dark:bg-white rounded-full"></div>
 
