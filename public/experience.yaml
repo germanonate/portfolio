@@ -1,19 +1,72 @@
-- company: Company Name 1
+- company: Celonis
   positions:
     - title: Senior Software Engineer
-      startDate: 2022
+      startDate: 11/23
       endDate: null
-      description_en: "Leading development of scalable web applications using modern technologies. Mentoring junior developers and contributing to architectural decisions."
-      description_es: "Liderando el desarrollo de aplicaciones web escalables usando tecnologías modernas. Mentoreando desarrolladores junior y contribuyendo a decisiones arquitectónicas."
-    - title: Software Engineer
-      startDate: 2020
-      endDate: 2022
-      description_en: "Developed and maintained web applications using Angular, TypeScript, and Node.js. Collaborated with cross-functional teams to deliver high-quality solutions."
-      description_es: "Desarrollé y mantuve aplicaciones web usando Angular, TypeScript y Node.js. Colaboré con equipos multifuncionales para entregar soluciones de alta calidad."
-- company: Company Name 2
+      description_en: "Worked in a large-scale B2B product company with well-defined processes, focusing on delivering quality as first priority and maintaining a high level of code test coverage. Contributed to multiple teams and initiatives, currently building View components (dashboard) to help analysts explore and visualize data in real time. Took on leadership responsibilities by leading initiatives independently, mentoring teammates, and interviewing candidates."
+      description_es: "Trabajé en una empresa B2B de gran escala con procesos bien definidos, enfocándome en entregar calidad como prioridad y mantener un alto nivel de cobertura de pruebas. Contribuí en múltiples equipos e iniciativas, actualmente desarrollando componentes de vista (dashboard) para ayudar a los analistas a explorar y visualizar datos en tiempo real. Asumí responsabilidades de liderazgo liderando iniciativas de forma independiente, apoyando compañeros y entrevistando candidatos."
+
+- company: Beeasy
   positions:
-    - title: Junior Developer
+    - title: Co-founder & CTO
+      startDate: 11/20
+      endDate: 12/22
+      description_en: "Co-founded a startup focused on optimizing last-mile e-commerce parcel delivery through technology. Led frontend development while overseeing architecture, tech stack, and strategic decisions for the entire product. Built a complete ecosystem of web and mobile applications to improve efficiency, reduce failed deliveries, and lower costs and environmental impact."
+      description_es: "Co-fundé una startup enfocada en optimizar la entrega de última milla de paquetes de e-commerce mediante tecnología. Lideré el desarrollo frontend supervisando la arquitectura, el stack tecnológico y decisiones estratégicas del producto. Construimos un ecosistema completo de aplicaciones web y móviles para mejorar la eficiencia, reducir entregas fallidas y disminuir costos e impacto ambiental."
+
+- company: CREALOGIX
+  positions:
+    - title: Team Lead
+      startDate: 12/20
+      endDate: 11/23
+      description_en: "Led the frontend team for a large-scale banking client, taking responsibility for technical decisions, estimations, and workflow management. Coordinated mobile and desktop development to maintain feature parity and scalability, while mentoring developers and guiding best practices."
+      description_es: "Lideré el equipo frontend para un cliente bancario de gran escala, tomando responsabilidad en decisiones técnicas, estimaciones y gestión de flujos de trabajo. Coordiné el desarrollo móvil y de escritorio para mantener paridad funcional y escalabilidad, mientras mentoreaba desarrolladores y guiaba buenas prácticas."
+    - title: Senior Frontend Developer
+      startDate: 01/20
+      endDate: 12/20
+      description_en: "Contributed as a senior engineer to the desktop banking application for a corporate client, ensuring alignment with the mobile app and collaborating with cross-functional teams. Supported the creation of the UXF Code Design System and helped migrate applications and libraries to a unified Nx monorepo."
+      description_es: "Contribuí como ingeniero senior en la aplicación bancaria de escritorio para un cliente corporativo, asegurando la alineación con la app móvil y colaborando con equipos multifuncionales. Apoyé la creación del sistema de diseño UXF Code y ayudé a migrar aplicaciones y librerías a un monorepo unificado con Nx."
+    - title: Frontend Developer
+      startDate: 05/19
+      endDate: 01/20
+      description_en: "Developed a multilingual mobile banking app (Arabic/English) with complex transactional flows and approval processes. Worked in a 14-person team (9 frontend, 5 backend) delivering to market within one year, followed by ongoing maintenance."
+      description_es: "Desarrollé una aplicación bancaria móvil multilingüe (árabe/inglés) con flujos transaccionales complejos y procesos de aprobación. Trabajé en un equipo de 14 personas (9 frontend, 5 backend) entregando al mercado en un año, seguido de mantenimiento continuo."
+
+- company: COYA S.R.L
+  positions:
+    - title: Frontend Developer
+      startDate: 07/17
+      endDate: 12/20
+      description_en: "Maintained and expanded a platform used by laboratories across Argentina to manage patient history and test results. Improved user experience by enabling patients to securely access their results online, reducing the need for physical visits."
+      description_es: "Mantuve y amplié una plataforma utilizada por laboratorios de toda Argentina para gestionar historiales de pacientes y resultados de análisis. Mejoré la experiencia del usuario permitiendo que los pacientes accedieran de forma segura a sus resultados en línea, reduciendo la necesidad de visitas presenciales."
+
+- company: Endeev S.R.L
+  positions:
+    - title: Software Engineer
+      startDate: 2017-04
+      endDate: 2019-04
+      description_en: "Developed the frontend of a healthcare platform (Medikly) and contributed to supplier management tools for international clients. Collaborated on the integration of ORO CRM and worked with modern web technologies to deliver scalable solutions."
+      description_es: "Desarrollé el frontend de una plataforma de salud (Medikly) y contribuí en herramientas de gestión de proveedores para clientes internacionales. Colaboré en la integración de ORO CRM y trabajé con tecnologías web modernas para entregar soluciones escalables."
+    - title: Technical Lead
+      startDate: 2017-08
+      endDate: 2018
+      description_en: "Acted as technical lead and developer of a reusable mobile starter kit including authentication, product management, and product display features. Designed to accelerate future mobile projects within the company."
+      description_es: "Actué como líder técnico y desarrollador de un kit inicial móvil reutilizable que incluía autenticación, gestión de productos y vistas de catálogo. Diseñado para acelerar futuros proyectos móviles dentro de la empresa."
+    - title: Software Engineer
       startDate: 2018
-      endDate: 2020
-      description_en: "Assisted in the development of internal tools and automation scripts. Participated in code reviews and team meetings."
-      description_es: "Asistí en el desarrollo de herramientas internas y scripts de automatización. Participé en revisiones de código y reuniones de equipo."
+      endDate: 2019
+      description_en: "Developed features for Capture and Ship, a multi-company ERP platform managing resources for T-shirt design and manufacturing. Worked in a 6-person agile team delivering new functionalities over 11 months."
+      description_es: "Desarrollé funcionalidades para Capture and Ship, una plataforma ERP multiempresa para gestionar recursos en el diseño y fabricación de camisetas. Trabajé en un equipo ágil de 6 personas entregando nuevas funcionalidades durante 11 meses."
+    - title: Project Manager
+      startDate: 2018
+      endDate: 2019
+      description_en: "Managed two IoT projects: Building Management System (BMS) for energy monitoring and control in private buildings, and Smart Cities for public lighting management. Coordinated small agile teams to deliver real-time monitoring and automation solutions."
+      description_es: "Gestioné dos proyectos de IoT: Building Management System (BMS) para control y monitoreo energético en edificios privados, y Smart Cities para la gestión de alumbrado público. Coordiné pequeños equipos ágiles para entregar soluciones de monitoreo y automatización en tiempo real."
+
+- company: CARSA S.A
+  positions:
+    - title: Software Developer
+      startDate: 04/15
+      endDate: 04/17
+      description_en: "Developed and maintained critical systems such as billing, sales orders, and credit bills, working within a service layer integrated with external providers (AFIP, Veraz, OCA, Andreani, SAP). Contributed to corporate web applications with dashboards and self-management features for internal users. Also participated in the company’s first mobile apps and the design of microservices architecture."
+      description_es: "Desarrollé y mantuve sistemas críticos como facturación, órdenes de venta y créditos, trabajando en una capa de servicios integrada con proveedores externos (AFIP, Veraz, OCA, Andreani, SAP). Contribuí en aplicaciones web corporativas con dashboards y funcionalidades de autogestión para usuarios internos. También participé en las primeras apps móviles de la empresa y en el diseño de la arquitectura de microservicios."
