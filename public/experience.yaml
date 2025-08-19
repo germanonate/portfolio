@@ -24,8 +24,8 @@
     - title: Senior Frontend Developer
       startDate: 01/20
       endDate: 12/20
-      description_en: "Contributed as a senior engineer to the desktop banking application for a corporate client, ensuring alignment with the mobile app and collaborating with cross-functional teams. Supported the creation of the UXF Code Design System and helped migrate applications and libraries to a unified Nx monorepo."
-      description_es: "Contribuí como ingeniero senior en la aplicación bancaria de escritorio para un cliente corporativo, asegurando la alineación con la app móvil y colaborando con equipos multifuncionales. Apoyé la creación del sistema de diseño UXF Code y ayudé a migrar aplicaciones y librerías a un monorepo unificado con Nx."
+      description_en: "Contributed as a senior engineer to the desktop banking application for a corporate client, ensuring alignment with the mobile app and collaborating with cross-functional teams. Supported the creation of the Design System and helped migrate applications and libraries to a unified Nx monorepo."
+      description_es: "Contribuí como ingeniero senior en la aplicación bancaria de escritorio para un cliente corporativo, asegurando la alineación con la app móvil y colaborando con equipos multifuncionales. Apoyé la creación del sistema de diseño y ayudé a migrar aplicaciones y librerías a un monorepo unificado con Nx."
     - title: Frontend Developer
       startDate: 05/19
       endDate: 01/20
@@ -42,26 +42,16 @@
 
 - company: Endeev S.R.L
   positions:
-    - title: Software Engineer
-      startDate: 2017-04
-      endDate: 2019-04
-      description_en: "Developed the frontend of a healthcare platform (Medikly) and contributed to supplier management tools for international clients. Collaborated on the integration of ORO CRM and worked with modern web technologies to deliver scalable solutions."
-      description_es: "Desarrollé el frontend de una plataforma de salud (Medikly) y contribuí en herramientas de gestión de proveedores para clientes internacionales. Colaboré en la integración de ORO CRM y trabajé con tecnologías web modernas para entregar soluciones escalables."
-    - title: Technical Lead
-      startDate: 2017-08
-      endDate: 2018
-      description_en: "Acted as technical lead and developer of a reusable mobile starter kit including authentication, product management, and product display features. Designed to accelerate future mobile projects within the company."
-      description_es: "Actué como líder técnico y desarrollador de un kit inicial móvil reutilizable que incluía autenticación, gestión de productos y vistas de catálogo. Diseñado para acelerar futuros proyectos móviles dentro de la empresa."
-    - title: Software Engineer
-      startDate: 2018
-      endDate: 2019
-      description_en: "Developed features for Capture and Ship, a multi-company ERP platform managing resources for T-shirt design and manufacturing. Worked in a 6-person agile team delivering new functionalities over 11 months."
-      description_es: "Desarrollé funcionalidades para Capture and Ship, una plataforma ERP multiempresa para gestionar recursos en el diseño y fabricación de camisetas. Trabajé en un equipo ágil de 6 personas entregando nuevas funcionalidades durante 11 meses."
     - title: Project Manager
-      startDate: 2018
-      endDate: 2019
+      startDate: 09/18
+      endDate: 05/19
       description_en: "Managed two IoT projects: Building Management System (BMS) for energy monitoring and control in private buildings, and Smart Cities for public lighting management. Coordinated small agile teams to deliver real-time monitoring and automation solutions."
       description_es: "Gestioné dos proyectos de IoT: Building Management System (BMS) para control y monitoreo energético en edificios privados, y Smart Cities para la gestión de alumbrado público. Coordiné pequeños equipos ágiles para entregar soluciones de monitoreo y automatización en tiempo real."
+    - title: Software Engineer
+      startDate: 04/17
+      endDate: 09/18
+      description_en: "Contributed to the development of healthcare and ERP platforms, focusing on scalable web solutions and supplier management tools. Collaborated in agile teams to deliver new features for complex multi-company environments."
+      description_es: "Contribuí al desarrollo de plataformas de salud y ERP, enfocado en soluciones web escalables y herramientas de gestión de proveedores. Colaboré en equipos ágiles entregando nuevas funcionalidades en entornos multiempresa."
 
 - company: CARSA S.A
   positions:

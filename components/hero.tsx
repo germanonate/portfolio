@@ -72,7 +72,7 @@ export function Hero() {
                 href="mailto:o.germanmartin@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center space-x-2 px-4 py-2 border border-black dark:border-white text-black dark:text-white hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors text-sm font-medium ml-4"
+                className="inline-flex items-center space-x-2 px-4 py-2 border border-black dark:border-white text-black dark:text-white hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors text-sm font-medium ml-4 rounded-md"
               >
                 <Mail className="h-4 w-4" />
                 <span>{t("getInTouch")}</span>

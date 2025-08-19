@@ -50,7 +50,7 @@ export function Experience() {
               <div className="space-y-6">
                 {experience.positions.map((position, positionIndex) => (
                   <div key={positionIndex} className="relative">
-                    <div className="absolute -left-8 w-3 h-3 bg-black dark:bg-white rounded-full"></div>
+                    <div className="absolute -left-8 w-3 h-3 mt-2 bg-black dark:bg-white rounded-full"></div>
 
                     <div className="space-y-2">
                       <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between">
