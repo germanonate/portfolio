@@ -45,8 +45,6 @@ export function Hero() {
           <div className="space-y-6 max-w-2xl">
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-light text-black dark:text-white">{t("greeting")}</h1>
 
-            <p className="text-lg text-gray-600 dark:text-gray-400 leading-relaxed">{t("role")}</p>
-
             <p className="text-base text-gray-700 dark:text-gray-300 leading-relaxed">{t("summary")}</p>
 
             {/* Social Media Links */}
