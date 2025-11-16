@@ -12,24 +12,28 @@ interface LanguageContextType {
 
 const translations = {
   en: {
-    greeting: "Hi, I'm Germán Oñate",
+    greeting: "Hi, I'm Germán",
     summary:
       "I’m passionate about building products that create real value for users, empower teams, and drive business growth. I’m also curious about how technology connects with economics and entrepreneurship 📈 — and outside of work, I enjoy playing tennis 🎾.",
     experience: "Experience",
     toggleLanguage: "Cambiar a Español",
     present: "Present",
-  getInTouch: "Get in touch",
-  allRightsReserved: "All rights reserved."
+    getInTouch: "Get in touch",
+    allRightsReserved: "All rights reserved.",
+    showMoreExperiences: "Show 3 more experiences",
+    showLess: "Show less"
   },
   es: {
-    greeting: "Hola, soy Germán Oñate",
+    greeting: "Hola, soy Germán",
     summary:
       "Me apasiona construir productos que generen un impacto real en los usuarios, potencien a los equipos y contribuyan al crecimiento del negocio. También me interesa cómo la tecnología se conecta con la economía y el emprendimiento 📈 — y fuera del trabajo disfruto del tenis 🎾.",
     experience: "Experiencia",
     toggleLanguage: "Switch to English",
     present: "Presente",
-  getInTouch: "Ponte en contacto",
-  allRightsReserved: "Todos los derechos reservados."
+    getInTouch: "Ponte en contacto",
+    allRightsReserved: "Todos los derechos reservados.",
+    showMoreExperiences: "Ver 3 experiencias más",
+    showLess: "Ver menos"
   },
 }
 

@@ -1,62 +1,67 @@
 - company: Celonis
+  website: "https://www.celonis.com/"
   positions:
     - title: Senior Software Engineer
       startDate: 11/23
       endDate: null
-      description_en: "Worked in a large-scale B2B product company with well-defined processes, focusing on delivering quality as first priority and maintaining a high level of code test coverage. Contributed to multiple teams and initiatives, currently building View components (dashboard) to help analysts explore and visualize data in real time. Took on leadership responsibilities by leading initiatives independently, mentoring teammates, and interviewing candidates."
-      description_es: "Trabajé en una empresa B2B de gran escala con procesos bien definidos, enfocándome en entregar calidad como prioridad y mantener un alto nivel de cobertura de pruebas. Contribuí en múltiples equipos e iniciativas, actualmente desarrollando componentes de vista (dashboard) para ayudar a los analistas a explorar y visualizar datos en tiempo real. Asumí responsabilidades de liderazgo liderando iniciativas de forma independiente, apoyando compañeros y entrevistando candidatos."
+      description_en: "Large-scale B2B SaaS. Focused on quality, test coverage, and real-time data visualization dashboards. Leadership in initiatives, mentoring, and hiring."
+      description_es: "Empresa SaaS B2B a gran escala. Enfoque en calidad, cobertura de tests y dashboards de visualización en tiempo real. Liderazgo en iniciativas, mentoring y entrevistas."
 
 - company: Beeasy
+  website: "https://beeasy.app/"
   positions:
     - title: Co-founder & CTO
       startDate: 11/20
       endDate: 12/22
-      description_en: "Co-founded a startup focused on optimizing last-mile e-commerce parcel delivery through technology. Led frontend development while overseeing architecture, tech stack, and strategic decisions for the entire product. Built a complete ecosystem of web and mobile applications to improve efficiency, reduce failed deliveries, and lower costs and environmental impact."
-      description_es: "Co-fundé una startup enfocada en optimizar la entrega de última milla de paquetes de e-commerce mediante tecnología. Lideré el desarrollo frontend supervisando la arquitectura, el stack tecnológico y decisiones estratégicas del producto. Construimos un ecosistema completo de aplicaciones web y móviles para mejorar la eficiencia, reducir entregas fallidas y disminuir costos e impacto ambiental."
+      description_en: "Startup in last-mile e-commerce logistics. Led frontend, architecture, and product strategy. Built full ecosystem of web & mobile apps."
+      description_es: "Startup de logística e-commerce última milla. Lideré frontend, arquitectura y estrategia de producto. Construcción de ecosistema web y mobile."
 
 - company: CREALOGIX
+  website: "https://crealogix.com/"
   positions:
     - title: Team Lead
       startDate: 12/20
       endDate: 11/23
-      description_en: "Led the frontend team for a large-scale banking client, taking responsibility for technical decisions, estimations, and workflow management. Coordinated mobile and desktop development to maintain feature parity and scalability, while mentoring developers and guiding best practices."
-      description_es: "Lideré el equipo frontend para un cliente bancario de gran escala, tomando responsabilidad en decisiones técnicas, estimaciones y gestión de flujos de trabajo. Coordiné el desarrollo móvil y de escritorio para mantener paridad funcional y escalabilidad, mientras mentoreaba desarrolladores y guiaba buenas prácticas."
+      description_en: "Banking software. Led frontend team, managed workflows, scalability, and best practices. Mentored developers."
+      description_es: "Software bancario. Lideré equipo frontend, gestión de flujos, escalabilidad y buenas prácticas. Mentoring de desarrolladores."
     - title: Senior Frontend Developer
       startDate: 01/20
       endDate: 12/20
-      description_en: "Contributed as a senior engineer to the desktop banking application for a corporate client, ensuring alignment with the mobile app and collaborating with cross-functional teams. Supported the creation of the Design System and helped migrate applications and libraries to a unified Nx monorepo."
-      description_es: "Contribuí como ingeniero senior en la aplicación bancaria de escritorio para un cliente corporativo, asegurando la alineación con la app móvil y colaborando con equipos multifuncionales. Apoyé la creación del sistema de diseño y ayudé a migrar aplicaciones y librerías a un monorepo unificado con Nx."
+      description_en: "Corporate banking desktop app. Aligned with mobile, contributed to Design System, migrated apps to Nx monorepo."
+      description_es: "App bancaria corporativa de escritorio. Alineación con móvil, creación de Design System y migración a monorepo Nx."
     - title: Frontend Developer
       startDate: 05/19
       endDate: 01/20
-      description_en: "Developed a multilingual mobile banking app (Arabic/English) with complex transactional flows and approval processes. Worked in a 14-person team (9 frontend, 5 backend) delivering to market within one year, followed by ongoing maintenance."
-      description_es: "Desarrollé una aplicación bancaria móvil multilingüe (árabe/inglés) con flujos transaccionales complejos y procesos de aprobación. Trabajé en un equipo de 14 personas (9 frontend, 5 backend) entregando al mercado en un año, seguido de mantenimiento continuo."
+      description_en: "Multilingual mobile banking app (Arabic/English). Complex transactional flows. Delivered in one year."
+      description_es: "App bancaria móvil multilingüe (árabe/inglés). Flujos transaccionales complejos. Entregada en un año."
 
-- company: COYA S.R.L
+- company: COYA
+  website: "https://www.coyasistemas.com.ar/"
   positions:
     - title: Frontend Developer
       startDate: 07/17
       endDate: 12/20
-      description_en: "Maintained and expanded a platform used by laboratories across Argentina to manage patient history and test results. Improved user experience by enabling patients to securely access their results online, reducing the need for physical visits."
-      description_es: "Mantuve y amplié una plataforma utilizada por laboratorios de toda Argentina para gestionar historiales de pacientes y resultados de análisis. Mejoré la experiencia del usuario permitiendo que los pacientes accedieran de forma segura a sus resultados en línea, reduciendo la necesidad de visitas presenciales."
+      description_en: "Healthcare platform for labs in Argentina. Expanded features, enabled secure patient access to test results online."
+      description_es: "Plataforma de salud para laboratorios en Argentina. Nuevas funcionalidades y acceso seguro de pacientes a resultados online."
 
-- company: Endeev S.R.L
+- company: Endeev
+  website: "https://www.linkedin.com/company/endeev"
   positions:
     - title: Project Manager
       startDate: 09/18
       endDate: 05/19
-      description_en: "Managed two IoT projects: Building Management System (BMS) for energy monitoring and control in private buildings, and Smart Cities for public lighting management. Coordinated small agile teams to deliver real-time monitoring and automation solutions."
-      description_es: "Gestioné dos proyectos de IoT: Building Management System (BMS) para control y monitoreo energético en edificios privados, y Smart Cities para la gestión de alumbrado público. Coordiné pequeños equipos ágiles para entregar soluciones de monitoreo y automatización en tiempo real."
+      description_en: "IoT projects: energy monitoring (BMS) and smart cities (lighting). Coordinated agile teams delivering real-time solutions."
+      description_es: "Proyectos IoT: monitoreo energético (BMS) y smart cities (alumbrado). Coordinación de equipos ágiles con soluciones en tiempo real."
     - title: Software Engineer
       startDate: 04/17
       endDate: 09/18
-      description_en: "Contributed to the development of healthcare and ERP platforms, focusing on scalable web solutions and supplier management tools. Collaborated in agile teams to deliver new features for complex multi-company environments."
-      description_es: "Contribuí al desarrollo de plataformas de salud y ERP, enfocado en soluciones web escalables y herramientas de gestión de proveedores. Colaboré en equipos ágiles entregando nuevas funcionalidades en entornos multiempresa."
+      description_en: "Healthcare and ERP platforms. Built scalable web solutions and supplier management tools in agile teams."
+      description_es: "Plataformas de salud y ERP. Soluciones web escalables y gestión de proveedores en equipos ágiles."
 
 - company: CARSA S.A
   positions:
     - title: Software Developer
       startDate: 04/15
       endDate: 04/17
-      description_en: "Developed and maintained critical systems such as billing, sales orders, and credit bills, working within a service layer integrated with external providers (AFIP, Veraz, OCA, Andreani, SAP). Contributed to corporate web applications with dashboards and self-management features for internal users. Also participated in the company’s first mobile apps and the design of microservices architecture."
-      description_es: "Desarrollé y mantuve sistemas críticos como facturación, órdenes de venta y créditos, trabajando en una capa de servicios integrada con proveedores externos (AFIP, Veraz, OCA, Andreani, SAP). Contribuí en aplicaciones web corporativas con dashboards y funcionalidades de autogestión para usuarios internos. También participé en las primeras apps móviles de la empresa y en el diseño de la arquitectura de microservicios."
+      description_en: "Retail systems: billing, sales, credit. Integrated with AFIP, Veraz, OCA, SAP. Corporate web dashboards, first mobile apps, and microservices design."
+      description_es: "Sistemas retail: facturación, ventas, créditos. Integración con AFIP, Veraz, OCA, SAP. Dashboards corporativos, primeras apps móviles y diseño de microservicios."

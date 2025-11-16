@@ -45,7 +45,3 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to view the site in your browser.
-
----
-
-Feel free to customize this portfolio to better fit your needs!

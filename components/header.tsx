@@ -9,17 +9,17 @@ export function Header() {
   const { language, setLanguage, t } = useLanguage()
 
   return (
-    <header className="w-full border-b border-gray-200 dark:border-gray-800 bg-white dark:bg-black">
-      <div className="container mx-auto px-6 lg:px-8">
-        <div className="flex h-16 items-center justify-between">
+    <header className="w-full bg-white dark:bg-black">
+      <div className="container mx-auto max-w-4xl px-6 lg:px-8">
+        <div className="flex h-14 items-center justify-between">
           <div className="flex items-center">
-            <h1 className="text-lg font-medium text-black dark:text-white">gonate</h1>
+            <h1 className="text-base font-medium text-black dark:text-white">gonate</h1>
           </div>
 
           <nav className="flex items-center space-x-2">
             <button
               onClick={() => setLanguage(language === "en" ? "es" : "en")}
-              className="p-2 text-gray-600 hover:text-black dark:text-gray-400 dark:hover:text-white transition-colors"
+              className="p-2 text-muted-foreground hover:text-black dark:hover:text-white transition-colors"
               aria-label={t("toggleLanguage")}
             >
               <Globe className="h-4 w-4" />
@@ -27,7 +27,7 @@ export function Header() {
 
             <button
               onClick={toggleTheme}
-              className="p-2 text-gray-600 hover:text-black dark:text-gray-400 dark:hover:text-white transition-colors"
+              className="p-2 text-muted-foreground hover:text-black dark:hover:text-white transition-colors"
               aria-label="Toggle theme"
               type="button"
             >
