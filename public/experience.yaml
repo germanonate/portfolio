@@ -1,9 +1,18 @@
+- company: Wordly
+  website: "https://www.wordly.ai/"
+  positions:
+    - title: Senior Software Engineer
+      startDate: 03/26
+      endDate: null
+      description_en: "AI-powered real-time translation platform. "
+      description_es: "Plataforma de traducción en tiempo real potenciada por IA. "
+
 - company: Celonis
   website: "https://www.celonis.com/"
   positions:
     - title: Senior Software Engineer
       startDate: 11/23
-      endDate: null
+      endDate: 12/25
       description_en: "Large-scale B2B SaaS. Focused on quality, test coverage, and real-time data visualization dashboards. Leadership in initiatives, mentoring, and hiring."
       description_es: "Empresa SaaS B2B a gran escala. Enfoque en calidad, cobertura de tests y dashboards de visualización en tiempo real. Liderazgo en iniciativas, mentoring y entrevistas."
 

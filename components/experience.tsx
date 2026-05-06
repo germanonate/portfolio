@@ -51,9 +51,8 @@ export function Experience() {
     fetchExperience()
   }, [])
 
-  // Show only the first 3 experiences initially
-  const displayedExperiences = showAll ? experiences : experiences.slice(0, 3)
-  const hiddenCount = experiences.length - 3
+  const displayedExperiences = showAll ? experiences : experiences.slice(0, 4)
+  const hiddenCount = experiences.length - 4
 
   return (
     <section className="py-16 px-6 lg:px-8 bg-white dark:bg-black">
@@ -100,7 +99,7 @@ export function Experience() {
           ))}
         </div>
         
-        {experiences.length > 3 && (
+        {experiences.length > 4 && (
           <div className="mt-6">
             <button
               onClick={() => setShowAll(!showAll)}
