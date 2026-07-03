@@ -28,15 +28,15 @@ export function Hero() {
   return (
     <section className="py-16 px-6 lg:px-8 bg-white dark:bg-black">
       <div className="container mx-auto max-w-4xl">
-        <div className="flex flex-col items-center text-center space-y-6">
+        <div className="flex flex-col items-center text-center lg:flex-row lg:items-start lg:text-left lg:gap-12">
           {/* Profile Image */}
-          <div className="relative">
+          <div className="relative flex-shrink-0 mb-6 lg:mb-0">
             <Image
               src="/headshot.png"
               alt="Germán Oñate"
-              width={160}
-              height={160}
-              className="rounded-full"
+              width={200}
+              height={200}
+              className="rounded-2xl"
               priority
             />
           </div>
@@ -48,7 +48,7 @@ export function Hero() {
             <p className="text-sm text-muted-foreground leading-relaxed">{t("summary")}</p>
 
             {/* Social Media Links */}
-            <div className="flex items-center justify-center space-x-3 pt-3">
+            <div className="flex items-center justify-center lg:justify-start space-x-3 pt-3">
               {socialLinks.map((link) => {
                 const Icon = link.icon
                 return (
