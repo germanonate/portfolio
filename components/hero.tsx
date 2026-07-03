@@ -36,7 +36,7 @@ export function Hero() {
               alt="Germán Oñate"
               width={200}
               height={200}
-              className="rounded-2xl"
+              className="rounded-md"
               priority
             />
           </div>
